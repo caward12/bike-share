@@ -7,3 +7,9 @@ This application collects data in two ways: 1) through web forms allowing users 
 
 
 ![home](/app/public/assets/images/Bike_share_home.png?raw=true "home page")
+
+![station_dashboard](/app/public/assets/images/station_dash.png?raw=true "station_dashboard")
+
+![trips_dashboard](/app/public/assets/images/trips_dash.png?raw=true "trips_dashboard")
+
+![weather_dashboard](/app/public/assets/images/weather_dash.png?raw=true "weather dashboard")
